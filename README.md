@@ -22,8 +22,8 @@ A simple and elegant task management application built with Django and Bootstrap
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd task-manager
+git clone git@github.com:lupnor5/task-manager-2025.git
+cd task-manager-2025
 ```
 
 2. Create and activate a virtual environment
@@ -95,6 +95,6 @@ task-manager/
 
 ## Contact
 
-Maria Guadalupe Ramirez Cruz - [lupnor5@gmail.com]
+Maria Guadalupe Ramirez Cruz - lupnor5@gmail.com
 
-Project Link: [https://github.com/lupnor5/task-manager-2025]
+Project Link: https://github.com/lupnor5/task-manager-2025
